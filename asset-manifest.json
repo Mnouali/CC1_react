@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CC1_react/static/css/main.6c05c881.css",
+    "main.js": "/CC1_react/static/js/main.053163e9.js",
+    "static/js/787.d4aba7ab.chunk.js": "/CC1_react/static/js/787.d4aba7ab.chunk.js",
+    "static/media/image3.jpg": "/CC1_react/static/media/image3.c431e617b1c1ea014825.jpg",
+    "static/media/image1.jpg": "/CC1_react/static/media/image1.6430ec8eb007a8c3b07f.jpg",
+    "static/media/image4.jpg": "/CC1_react/static/media/image4.1160f95a36fdc4eb3806.jpg",
+    "static/media/image2.jpg": "/CC1_react/static/media/image2.f076f8888bb0d640289b.jpg",
+    "static/media/icone.png": "/CC1_react/static/media/icone.92e8697c322d0cad0291.png",
+    "static/media/united-kingdom.svg": "/CC1_react/static/media/united-kingdom.2d19fed4fb288f7b8a8591bbe3b70429.svg",
+    "index.html": "/CC1_react/index.html",
+    "static/media/spain.svg": "/CC1_react/static/media/spain.32e1e4891a5c1d5ce79f04ec7671d151.svg",
+    "static/media/france.svg": "/CC1_react/static/media/france.40c79af5ce5231775ae018679c075255.svg",
+    "main.6c05c881.css.map": "/CC1_react/static/css/main.6c05c881.css.map",
+    "main.053163e9.js.map": "/CC1_react/static/js/main.053163e9.js.map",
+    "787.d4aba7ab.chunk.js.map": "/CC1_react/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c05c881.css",
+    "static/js/main.053163e9.js"
+  ]
+}
